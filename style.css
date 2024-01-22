@@ -1,0 +1,49 @@
+body {
+  background-color: #023047;
+  height: 100vh;
+  overflow: hidden;
+}
+
+h1 {
+  font-family: 'Merienda', cursive;
+  color: #479d2a;
+  font-weight: 700;
+  font-size: 4rem;
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+h2 {
+  font-family: 'Macondo', cursive;
+  color: #339c10;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+}
+
+footer {
+  font-family: 'Merienda', cursive;
+  color: #479d2a;
+  font-weight: 700;
+  font-size: 1rem;
+  text-align: center;
+  margin-bottom: 70px;
+  margin-top: 100px;
+}
+
+footer a {
+  color: #9f6b1d;
+}
+
+.dice {
+  margin: 0 30px;
+}
+
+.flex {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-content: space-between;
+}
